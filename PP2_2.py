@@ -8,7 +8,7 @@ def q1():
     print("The number is not Five")
 
 def q2(): 
-  num = int(input("Input a number: "))
+  num = float(input("Input a number: "))
   if num > 0:
     print("Positive")
   else:
